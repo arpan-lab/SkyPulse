@@ -1,3 +1,9 @@
+Demo Link = https://app.powerbi.com/view?r=eyJrIjoiNmE2NjM1NjItODczZi00NDZkLThlMzktMzlmY2UzN2EyMmRiIiwidCI6IjMwMGUzOTk4LTdlZWUtNGUyMS1iNzRmLWExOTM0NjliZjU0ZCJ9
+
+
+Preview=
+<img width="1468" height="809" alt="image" src="https://github.com/user-attachments/assets/1d0501c9-b69a-4154-b06e-3bdd6af8e8af" />
+
 🌦️ SkyPulse
 
 A modern and interactive Weather Analytics Dashboard built using **Power BI**.  
